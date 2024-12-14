@@ -400,6 +400,17 @@ https://github.com/morrownr/USB-WiFi/issues/455
 
 #### AC1200 / AC1300 - USB 3 - 2.4 GHz and 5 GHz (WIFI 5)
 
+```
+>===============================<
+>=====>  Archer T3U Plus (AC1300)  <=====<
+>===============================<
+```
+
+![image](https://github.com/user-attachments/assets/d9e042a5-ef45-4f19-ba09-c5dda534d44a)
+
+The AC1300 WiFi adapters typically use the Realtek RTL8812BU
+This dongle uses the [88x2bu](https://github.com/RinCat/RTL88x2BU-Linux-Driver) driver
+
 -----
 
 ##### `chipset - Mediatek mt7612u - supported in-kernel since Linux kernel 4.19 (2018)` - [mt7612u info](https://github.com/morrownr/7612u)
